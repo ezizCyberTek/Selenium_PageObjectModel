@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3422" started-at="2019-02-20T22:15:21Z" finished-at="2019-02-20T22:15:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3422" started-at="2019-02-20T22:15:21Z" finished-at="2019-02-20T22:15:24Z">
+      <class name="c_CT_POMDesign.smartbearWebOrdersTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:c_CT_POMDesign.smartbearWebOrdersTests@3bfdc050]" name="setUp" is-config="true" duration-ms="2174" started-at="2019-02-20T22:15:21Z" finished-at="2019-02-20T22:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpApplication()[pri:0, instance:c_CT_POMDesign.smartbearWebOrdersTests@3bfdc050]" name="setUpApplication" is-config="true" duration-ms="69" started-at="2019-02-20T22:15:23Z" finished-at="2019-02-20T22:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApplication -->
+        <test-method status="PASS" signature="verifyLabels()[pri:1, instance:c_CT_POMDesign.smartbearWebOrdersTests@3bfdc050]" name="verifyLabels" duration-ms="782" started-at="2019-02-20T22:15:23Z" description="Verify labels and tab links are displayed" finished-at="2019-02-20T22:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLabels -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:c_CT_POMDesign.smartbearWebOrdersTests@3bfdc050]" name="tearDown" is-config="true" duration-ms="381" started-at="2019-02-20T22:15:24Z" finished-at="2019-02-20T22:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- c_CT_POMDesign.smartbearWebOrdersTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
